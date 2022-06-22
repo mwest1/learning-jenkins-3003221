@@ -1,4 +1,5 @@
-### Some other update 
+# removed the previous update 
+### added another smaller header 
 
 # Learning Jenkins, 01-03: Install Jenkins on macOS
 
