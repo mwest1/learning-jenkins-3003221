@@ -1,0 +1,18 @@
+  origin/01_02
+  origin/01_03
+  origin/01_04
+  origin/01_05
+  origin/02_01
+  origin/02_01_newbranch
+  origin/02_06
+  origin/02_07
+  origin/03_01
+  origin/03_04
+  origin/03_05
+  origin/03_06
+  origin/03_07
+  origin/03_08
+  origin/05_01
+  origin/05_02
+  origin/HEAD -> origin/main
+  origin/main
